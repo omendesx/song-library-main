@@ -39,7 +39,7 @@ def sing():
     write("Tua lingua eu não entendo, eu só sei que tu é chata e muito gata pra mim", 0.06)
     write("Eu vim de lá", 0.02)
     write("Eu vim de longe, de longe de cá", 0.04)
-    write("Eu vim pra te ensinar que quando o beat dropa a gente nunca mais pode parar, sim", 0.04)
+    write("Eu vim pra te ensinar que quando o beat dropa a gente nunca mais pode parar, tsey", 0.04)
     time.sleep(2)
     clear()
 sing()
